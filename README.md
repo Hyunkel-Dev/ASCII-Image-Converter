@@ -3,7 +3,14 @@
 
 ## Description
 
-Convert any image of any format to ASCII image in .txt format
+Convert any image of any format to ASCII image in .txt format.
+
+
+## Features
+
+- WIDTH : the width (in characters) of the output image, the height is then calculated with the image ratio
+- PATH : the path to the image you want to convert
+- ASCII : a predefined string that ranks the characters from lightest to darkest
 
 
 ## Example
