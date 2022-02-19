@@ -13,6 +13,11 @@ Convert any image of any format to ASCII image in .txt format.
 - ASCII : a predefined string that ranks the characters from lightest to darkest
 
 
+## Dependencies
+
+- PIL
+
+
 ## Example
 
 Here is an example of an image that can be converted (here in .png format).
