@@ -1,9 +1,5 @@
 import PIL.Image
-
-
-WIDTH = 150
-PATH = "assets/example.png"
-ASCII = " .\'`^\",:;Il!i><~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"
+from config import *
 
 
 class Image:
@@ -39,6 +35,7 @@ class Image:
         return self.string
 
 
-img = Image(PATH)
-img.write()
-print(img)
+if __name__ == '__main__':
+    img = Image(PATH)
+    img.write()
+    print(img)
