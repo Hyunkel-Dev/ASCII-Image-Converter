@@ -3,7 +3,7 @@
 
 ## Description
 
-Convert any image of any format to ASCII image in .txt format.
+Convert any image of any format to ASCII image in .txt format (in addition it allows to compress the file in some way).
 
 
 ## Features
