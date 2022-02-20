@@ -8,10 +8,10 @@ Convert any image of any format to ASCII image in .txt format (in addition it al
 
 ## Features
 
-- WIDTH : the width (in characters) of the output image, the height is then calculated with the image ratio
-- ASCII : a predefined string that ranks the characters from lightest to darkest
-- PATH : the path to the image you want to convert
-- OUTPUT : the path to the output image
+- WIDTH: the width (in characters) of the output image, the height is then calculated with the image ratio
+- ASCII: a predefined string that ranks the characters from lightest to darkest
+- PATH: the path to the image you want to convert
+- OUTPUT: the path to the output image
 
 
 ## Dependencies
