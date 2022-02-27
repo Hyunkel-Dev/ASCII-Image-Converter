@@ -3,8 +3,7 @@
 
 ## Description
 
-Convert any image of any format to ASCII image in .txt format (in addition it allows to compress the file in some way).
-
+![image](https://user-images.githubusercontent.com/66129931/155897718-f2610253-4d06-4db1-badc-38a64c33b19d.png)
 
 ## Features
 
@@ -19,7 +18,6 @@ Convert any image of any format to ASCII image in .txt format (in addition it al
 Here is an example of an image that can be converted (here in .png format).
 
 ![example](input/example.png)
-
 
 Then here is the result that we obtain with this program.
 
