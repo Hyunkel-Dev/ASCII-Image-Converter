@@ -8,7 +8,7 @@ Convert any image of any format to ASCII image in .txt format (in addition it al
 
 ## Features
 
-![image](https://user-images.githubusercontent.com/66129931/155897077-021228bd-9181-4a50-a10d-98e4ca249857.png)
+![image](https://user-images.githubusercontent.com/66129931/155897102-6c1d938c-a198-464d-9d9e-aa9d84460e20.png)
 
 
 
