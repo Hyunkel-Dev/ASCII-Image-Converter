@@ -8,14 +8,11 @@ Convert any image of any format to ASCII image in .txt format (in addition it al
 
 ## Features
 
-![image](https://user-images.githubusercontent.com/66129931/155897102-6c1d938c-a198-464d-9d9e-aa9d84460e20.png)
-
-
+![image](https://user-images.githubusercontent.com/66129931/155897684-efbe4f82-3f44-4432-b548-cf386df5ac4b.png)
 
 ## Dependencies
 
-- PIL / Pillow library
-
+![image](https://user-images.githubusercontent.com/66129931/155897698-26bbed63-a25c-47d4-a550-6dd2630f5391.png)
 
 ## Example
 
