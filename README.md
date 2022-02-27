@@ -3,29 +3,19 @@
 
 ## Description
 
-Convert any image of any format to ASCII image in .txt format (in addition it allows to compress the file in some way).
-
+![image](https://user-images.githubusercontent.com/66129931/155897899-7aa64b23-7520-4a42-bd65-5d858e1d3bdf.png)
 
 ## Features
 
-![image](https://user-images.githubusercontent.com/66129931/155897102-6c1d938c-a198-464d-9d9e-aa9d84460e20.png)
-
-
+![image](https://user-images.githubusercontent.com/66129931/155897905-c96be977-6bee-4808-a383-2f329b4f0054.png)
 
 ## Dependencies
 
-- PIL / Pillow library
-
+![image](https://user-images.githubusercontent.com/66129931/155897915-07b237e6-b17d-4c7c-aec6-a0d7b2172c1c.png)
 
 ## Example
 
-Here is an example of an image that can be converted (here in .png format).
-
 ![example](input/example.png)
-
-
-Then here is the result that we obtain with this program.
-
                                                                                                                                                       
                                                                                                                                                       
                                                 po######*******ooooooaaaahhhhhhkkkkkkbdqX{          UOqqqqwwwwwmmmmmmZZZZOOOOOO000000QQQQQQLY/_       
