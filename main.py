@@ -1,11 +1,12 @@
 import PIL.Image
+import os
 from config import *
 
 
 class Image:
 
-    def __init__(self, path):
-        self.path = path
+    def __init__(self, name):
+        self.path = os.path.join("input", name)
         self.image = self.load()
         self.string = self.convert()
 
@@ -28,7 +29,7 @@ class Image:
         return string
 
     def write(self):
-        with open("output/output.txt", "w", encoding="utf-8") as file:
+        with open(os.path.join("output", f"{IMAGE_NAME[:-4]}.txt"), "w", encoding="utf-8") as file:
             file.write(self.string)
 
     def __repr__(self):
@@ -36,6 +37,6 @@ class Image:
 
 
 if __name__ == '__main__':
-    img = Image(PATH)
+    img = Image(IMAGE_NAME)
     img.write()
     print(img)
