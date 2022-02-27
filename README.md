@@ -15,12 +15,7 @@
 
 ## Example
 
-Here is an example of an image that can be converted (here in .png format).
-
 ![example](input/example.png)
-
-Then here is the result that we obtain with this program.
-
                                                                                                                                                       
                                                                                                                                                       
                                                 po######*******ooooooaaaahhhhhhkkkkkkbdqX{          UOqqqqwwwwwmmmmmmZZZZOOOOOO000000QQQQQQLY/_       
