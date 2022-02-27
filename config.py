@@ -5,5 +5,6 @@ ASCII = " .\'`^\",:;Il!i><~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B
 
 # the path to the image you want to convert
 PATH = "assets/example.png"
+
 # the path to the output image
 OUTPUT = "output/output.txt"
