@@ -3,15 +3,15 @@
 
 ## Description
 
-![image](https://user-images.githubusercontent.com/66129931/155897718-f2610253-4d06-4db1-badc-38a64c33b19d.png)
+![image](https://user-images.githubusercontent.com/66129931/155897899-7aa64b23-7520-4a42-bd65-5d858e1d3bdf.png)
 
 ## Features
 
-![image](https://user-images.githubusercontent.com/66129931/155897684-efbe4f82-3f44-4432-b548-cf386df5ac4b.png)
+![image](https://user-images.githubusercontent.com/66129931/155897905-c96be977-6bee-4808-a383-2f329b4f0054.png)
 
 ## Dependencies
 
-![image](https://user-images.githubusercontent.com/66129931/155897698-26bbed63-a25c-47d4-a550-6dd2630f5391.png)
+![image](https://user-images.githubusercontent.com/66129931/155897915-07b237e6-b17d-4c7c-aec6-a0d7b2172c1c.png)
 
 ## Example
 
