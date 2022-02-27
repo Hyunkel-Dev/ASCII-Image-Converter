@@ -21,7 +21,7 @@ Convert any image of any format to ASCII image in .txt format (in addition it al
 
 Here is an example of an image that can be converted (here in .png format).
 
-![example](assets/example.png)
+![example](input/example.png)
 
 
 Then here is the result that we obtain with this program.
