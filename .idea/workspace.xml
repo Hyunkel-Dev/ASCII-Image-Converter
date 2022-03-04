@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc2c1d82-8247-4552-a31e-e577baf0178d" name="Default Changelist" comment="27/02/2022">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dc2c1d82-8247-4552-a31e-e577baf0178d" name="Default Changelist" comment="27/02/2022" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/input" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxic\PycharmProjects\ASCII-Image-Converter\input" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -113,6 +116,7 @@
       <updated>1645377765775</updated>
       <workItem from="1645377766885" duration="1704000" />
       <workItem from="1645991295292" duration="985000" />
+      <workItem from="1645994473570" duration="361000" />
     </task>
     <task id="LOCAL-00001" summary="20/02/2022">
       <created>1645378062361</created>
@@ -149,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645991764099</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="27/02/2022">
+      <created>1645994570937</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645994570937</updated>
+    </task>
+    <task id="LOCAL-00007" summary="27/02/2022">
+      <created>1645994675281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645994675281</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,25 +195,25 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="739" y="270" key="FileChooserDialogImpl/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645378545810" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1645992283053">
+    <state width="1877" height="435" key="GridCell.Tab.0.bottom" timestamp="1645994834261">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645992283053" />
+    <state width="1877" height="435" key="GridCell.Tab.0.bottom/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645994834261" />
     <state width="1493" height="658" key="GridCell.Tab.0.bottom/1920.0.1536.826/0.0.1920.1032@1920.0.1536.826" timestamp="1645378404985" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1645992283053">
+    <state width="1877" height="435" key="GridCell.Tab.0.center" timestamp="1645994834260">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645992283053" />
+    <state width="1877" height="435" key="GridCell.Tab.0.center/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645994834260" />
     <state width="1493" height="658" key="GridCell.Tab.0.center/1920.0.1536.826/0.0.1920.1032@1920.0.1536.826" timestamp="1645378404985" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1645992283053">
+    <state width="1877" height="435" key="GridCell.Tab.0.left" timestamp="1645994834260">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645992283053" />
+    <state width="1877" height="435" key="GridCell.Tab.0.left/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645994834260" />
     <state width="1493" height="658" key="GridCell.Tab.0.left/1920.0.1536.826/0.0.1920.1032@1920.0.1536.826" timestamp="1645378404984" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1645992283053">
+    <state width="1877" height="435" key="GridCell.Tab.0.right" timestamp="1645994834260">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645992283053" />
+    <state width="1877" height="435" key="GridCell.Tab.0.right/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645994834260" />
     <state width="1493" height="658" key="GridCell.Tab.0.right/1920.0.1536.826/0.0.1920.1032@1920.0.1536.826" timestamp="1645378404985" />
     <state x="184" y="85" key="MergeDialog" timestamp="1645991438328">
       <screen x="0" y="0" width="1920" height="1032" />
@@ -205,10 +223,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="598" y="277" key="MultipleFileMergeDialog/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645991438348" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1645991765728">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1645994677886">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645991765728" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645994677886" />
     <state x="777" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1645991426561">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -219,7 +237,7 @@
     <state x="790" y="306" key="svn.repositoryBrowser/1920.0.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1645378570731" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ASCII_Image_Converter$main.coverage" NAME="main Coverage Results" MODIFIED="1645991708348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASCII_Image_Converter$main.coverage" NAME="main Coverage Results" MODIFIED="1645994652934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ASCII_Image_Converter$webcam.coverage" NAME="webcam Coverage Results" MODIFIED="1645378364971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/_PERSO/Dev/Python/Programs" />
   </component>
 </project>

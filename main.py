@@ -24,7 +24,7 @@ class Image:
                 pixel = self.image.getpixel((x, y))
                 value = sum(pixel) // len(pixel)
                 index = value * len(ASCII) // 256
-                line += ASCII[index]
+                line += ASCII[::-1][index] if COLOR_INVERSION else ASCII[index]
             string += line + "\n"
         return string
 

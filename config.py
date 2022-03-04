@@ -6,3 +6,6 @@ ASCII = " .\'`^\",:;Il!i><~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B
 
 # the name of the image you want to convert
 IMAGE_NAME = "example.jpg"
+
+# invert the colors of the image
+COLOR_INVERSION = True
