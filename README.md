@@ -7,7 +7,7 @@
 
 ## Features
 
-![image](https://user-images.githubusercontent.com/66129931/155897905-c96be977-6bee-4808-a383-2f329b4f0054.png)
+![image](https://user-images.githubusercontent.com/66129931/156808682-0768a182-d563-4df8-856a-65ec60a722e0.png)
 
 ## Dependencies
 
